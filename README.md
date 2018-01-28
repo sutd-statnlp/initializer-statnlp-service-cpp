@@ -18,3 +18,6 @@
 
     ./app/app.out
 
+## Service with UI
+
+- [UI version](https://github.com/sutd-statnlp/initializer-statnlp-service-cpp/tree/master/ui)  
