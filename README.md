@@ -1,4 +1,4 @@
-# Intializer for StatNLP service in C++
+# Initializer for StatNLP service in C++
 
 ## Developement
 
